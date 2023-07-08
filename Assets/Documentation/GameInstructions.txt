@@ -1,0 +1,5 @@
+The Game loads into a main menu screen.
+The game settings allow you to change your character color, character name, and game difficulty
+The Play 2D button starts the game.
+To Play press the mouse button or screen to go up and release to go down dodging obstacles to continue to move forward.
+If you touch an obstacle you lose! 
