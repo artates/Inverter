@@ -1,0 +1,246 @@
+﻿Inverter
+Game Design Doc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Game Overview
+This game is an infinite side scrolling platformer. The player is a female pilot, Ace, who pilots the inverter through a deathstar like prison planet. 
+
+
+High Concept
+The player, a triangle, will dodge obstacles and gain score as he traverses the infinitely generated map. 
+  
+
+Prototype 
+One level with a obstacles with a boss at the end. 
+
+
+Unique selling point
+A mix of classic shmups all about simple gameplay focused around shooting, and swapping colors to avoid damage.
+
+
+Platform requirements
+This game utilizes minimalistic graphics in order to provide a great user experience to all using minimal hardware requirements. Any relatively modern phone or computer should be able to run this game.
+Jetpack joyride and geometry dash
+Synopsis
+A square dreams of being more round, he braves a gauntlet of pointy shapes by utilizing his ability to hover.
+Game Objectives
+The square hopes to survive as long as possible before it eventually succumbs to the pointy shapes.
+Game Rules
+The square is on a track and bound by the ceiling and the floor. He must dodge incoming obstacles by floating around the screen in the y-axis. The player earns score the longer they stay alive.
+Game Structure
+  
+
+Gameplay
+The player floats up and is pulled down by gravity. The player is controlled by very simple control scheme of a mouse click or button press on computer platforms and a simple screen touch on mobile platforms. On button/screen press the square goes up and on release gravity will pull it down.
+Player
+Player is a female ace pilot of the ship, The Inverter.
+
+
+Art
+Very simple minimalistic art focused primarily on simple shapes
+Audio
+Music that plays as the player traverses the map
+MVP(Minimum Viable Product)
+Built for mobile platform
+Wishlist
+Movement and motion controls
+Multiple levels and bosses in a story mode
+Upgraded assets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inverter
+
+
+Auto scroller with color swap alien space prison theme
+
+
+Mechanics:
+
+
+Player-
+        Tap to swap color
+
+
+Lazers-
+        Color 1 RED must be color red or primary color
+
+
+        Color 2 BLUE must be color blue or secondary color
+
+
+        Both primary and secondary color player must swap as they touch laser to parry
+
+
+        Normal lasers just sit still for the player
+
+
+        Moving lasers move towards the player (might change into blasts or even enemies)
+
+
+        Pulsing lasers fade in and out
+
+
+        Swapping lasers swap locations with other lasers 
+
+
+Score - 
+        Every passed laser is a 1 point
+
+
+        Every parry laser is 2 points
+
+
+        Both laser is 2 points
+
+
+Level -
+        
+        Their is 1 level which has randomized sets of lazers between runs or generates lasers.
+        
+        These are separated by score.
+        
+        Example 1-50 only normal lasers
+
+
+
+
+AD’s
+
+
+On death players can watch ad’s to respawn. 
+More ad’s the further they are and a cap of 3 ads
+So if your passed 1000 lasers you can only respawn once.
+
+
+(EXTRA)
+
+
+Enemies- 
+        
+        If added:
+
+
+        Bosses: bosses will appear after certain milestones 
+100 lasers, 500, 800 then every 500
+
+
+
+
+Boss 1: slowly moves towards player before randomly dashing. Swaps color before dashing
+
+
+Boss 2 fires blast that is opposite of their color
+
+
+Boss 3: ???
+
+
+Grunts: Normal enemies that either run up between lasers and try to touch player must be parried
+
+
+Some may run shoot and turn back, you must parry the shot instead.
+
+
+
+
+        
+        
+
+
+Unlockables:
+
+
+If bosses are added maybe make endless mode after all bosses are beaten 
+
+
+*endless is always a option but I appears that you unlock it*
+
+
+Colors 
+
+
+        1 Green and Yellow Beat first boss
+
+
+        2 Orange and Grey beat second boss
+
+
+        3 pink and teal beat third boss
+
+
+        4 black and white escape
+
+
+        5 pass 10,000 lasers blood and cream
+
+
+        6 Parry 1,000 lasers inverted colors
+
+
+
+
+        Special - Pay to remove ads. Gold and Platnium $1.99
+
+
+        Special - Support patrion ZandyDandy special colors $1 Purple and pink
+
+
+        Special - Sub to Youtube -
