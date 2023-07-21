@@ -180,7 +180,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Main Menu
+  m_text: 'Inverter
 
 '
   m_isRightToLeft: 0
@@ -1397,6 +1397,7 @@ MonoBehaviour:
   Button_ToAbout: {fileID: 0}
   Button_ToSettings: {fileID: 0}
   Button_Menu_Quit: {fileID: 0}
+  GameOver: {fileID: 0}
 --- !u!4 &1747928798
 Transform:
   m_ObjectHideFlags: 0
